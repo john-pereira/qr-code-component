@@ -43,5 +43,5 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Add your name here](https://www.johnp.com.br)
+- Website - https://www.johnp.com.br
 - Frontend Mentor - [@john-pereira](https://www.frontendmentor.io/profile/john-pereira)
